@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>plus minus.png</file>
+        <file>folder.png</file>
+        <file>save.png</file>
+        <file>settings.png</file>
+    </qresource>
+</RCC>
